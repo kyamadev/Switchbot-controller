@@ -4,6 +4,7 @@ help:
 	@echo "Targets:"
 	@echo "  build   - Build Docker images"
 	@echo "  up      - Start all containers (detached mode)"
+	@echo "  up-logs - Start all containers (logs mode)"
 	@echo "  down    - Stop and remove all containers"
 	@echo "  restart - Restart all containers"
 	@echo "  logs    - Follow logs of all containers"
