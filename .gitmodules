@@ -1,8 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/kyamadev/switchbot-controller-frontend
-	branch = docker
 [submodule "backend"]
 	path = backend
 	url = https://github.com/kyamadev/Switchbot-controller-api
-	branch = docker
