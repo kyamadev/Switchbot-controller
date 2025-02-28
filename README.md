@@ -40,4 +40,8 @@ git submodule update --init --recursive
 
 [TV(動作動画)](https://youtu.be/TZuZ8X9-1Pc)
 
-エアコン(不具合修正中)
+エアコン([不具合](https://github.com/kyamadev/Switchbot-controller/issues/2)修正中)
+
+## ライトモードUI
+システムの設定を読み込み、ダークモードかライトモードを選択して表示しているが、右上のトグルスイッチで切り替えが可能。
+![Screenshot 2025-02-28 at 22 13 38](https://github.com/user-attachments/assets/969a6e3c-3af8-44f4-8403-316ae78c0b47)
